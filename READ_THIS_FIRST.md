@@ -61,6 +61,4 @@ This binary project does not contain source code and therefore does not allow yo
  ### Documentation & support
  For more information and instructions on how to use this software see the IBM Knowledge Center [manual link](https://www.ibm.com/support/knowledgecenter/SS5Q6W/welcome.html). 
 
-To build and deploy using Accelerator for Teams - go to the migration plan page in Transformation Advisor and select the option to use Accelerator for Teams, before downloading or pushing the bundle to Git. Accelerator for Teams was derived from the Kabanero.io software, for more details on using this feature see [Kabanero.io documentation](https://kabanero.io/docs/).
-
 Additional information on IBM Cloud Pak for Applications can be found [here](https://www.ibm.com/support/knowledgecenter/SSCSJL/welcome.html).
