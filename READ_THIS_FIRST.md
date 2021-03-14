@@ -54,7 +54,7 @@ This binary project does not contain source code and therefore does not allow yo
     <tr>
        <td colSpan="2"><b>Files for deploying</b></td>
     </tr>
-    <tr><td>Operator resources</td><td>Deploy and manage your migrated application.</td></tr>
+    <tr><td>Application CR</td><td>A custom resource (CR) configuration for your application. This resource will create an instance of your application from the Open Liberty Operator in OpenShift</td></tr>
   </tbody>
 </table>  
  
